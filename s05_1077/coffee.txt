@@ -1,0 +1,20 @@
+Caffee Latte,ETIOPIA,15.0
+White Mocha,BRAZIL,16.5
+Frappuccino,GUATEMALA,17.0
+Cappuccino,ETIOPIA,14.0
+Caffee Latte,ETIOPIA,15.0
+White Mocha,BRAZIL,16.5
+Frappuccino,GUATEMALA,17.0
+Cappuccino,ETIOPIA,14.0
+Caffee Latte,ETIOPIA,15.0
+White Mocha,BRAZIL,16.5 
+Frappuccino,GUATEMALA,17.0
+Cappuccino,ETIOPIA,14.0
+Caffee Latte,ETIOPIA,15.0
+White Mocha,BRAZIL,16.5 
+Frappuccino,GUATEMALA,17.0
+Cappuccino,ETIOPIA,14.0
+Caffee Latte,ETIOPIA,15.0
+White Mocha,BRAZIL,16.5 
+Frappuccino,GUATEMALA,17.0
+Cappuccino,ETIOPIA,14.0
